@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T15:14:42.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LiOibM_yLTeWuonB7s9O" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-12T18:04:31.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="YorWUskabSrD8aMwSiw1" version="14.8.5" type="github" pages="2">
   <diagram id="R75zZpFpY5lFUC0Fp4i5" name="newWebTier">
-    <mxGraphModel dx="2249" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2311" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,10 +70,10 @@
         <mxCell id="OHCGnlUI0vqyFtJxWPKa-21" style="vsdxID=1731;fillColor=#3e3e3e;gradientColor=none;shape=stencil(pZZLctswDIZPoy2GAPhcJ+k9Mo1Ta+LaGcVpnduHLkVSgGJ1kR1FA/wI/nh44Lu3/ePrbiDzdp5OL7u/49N5P/D9QDQe97tpPOfVwA8D3z2fpt2v6fR+fCrfr49Xy+vq9+nP9YRL8UNjrj5kPsp3Qgjh386PYv7zfSr2WAxiAB9ml3krBaB560JlKzAknq1IkS5cNlyEOJuwNLmBtggsyf3MGUIBkCQ3OXBOktG3C1d09ODtFtyBJQkPAQJJvJFo7yAptJFYh0BxC2skk/PNk2S61UuTBYMq4rB6awub8VIC7yTc1jMq2loIiq009iypm/oGD+glUsmbk4+UvAguSmbKbySp7Zoz+DAeFyWwsJ9Dz6L4/9QAospED6ySIYejS4AhWv1AEKxSplndSkUE1IWwOLmKY5rk1JKAWOKZuoLcs4e38NnAR4nnzFLRk6kF1ficU0rl5dKqloQBi5v8hc+85XMWoOLbrlEVxFRde/wIRvGzbJ62+BwgqfgjQVJlaQOo8HOLwSDxLtXyXzYi3GzAPh+swl+eXGPN5a3kj7l+k+RH07sat1BYhC+LZenRYmC87eBy40zfc7CuZteXDnqErcz1C3YH1B7t/bpNHSNtMPamalQ3Xw3P7YuuzPOiz+nn8XAoY375u57reav8J+CHTw==);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="OHCGnlUI0vqyFtJxWPKa-18" vertex="1">
           <mxGeometry x="11" width="5" height="5.9547169811320755" as="geometry" />
         </mxCell>
-        <mxCell id="OHCGnlUI0vqyFtJxWPKa-22" value="private endpoint&lt;br&gt;(1st)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="OHCGnlUI0vqyFtJxWPKa-8" vertex="1">
+        <mxCell id="OHCGnlUI0vqyFtJxWPKa-22" value="private endpoint" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="OHCGnlUI0vqyFtJxWPKa-8" vertex="1">
           <mxGeometry x="5.910000000000082" y="63.51698113207547" width="49.80128301886793" height="45.652830188679246" as="geometry" />
         </mxCell>
-        <mxCell id="OHCGnlUI0vqyFtJxWPKa-23" value="private endpoint&lt;br&gt;(2nd)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="OHCGnlUI0vqyFtJxWPKa-8" vertex="1">
+        <mxCell id="OHCGnlUI0vqyFtJxWPKa-23" value="private endpoint" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="OHCGnlUI0vqyFtJxWPKa-8" vertex="1">
           <mxGeometry x="6" y="152.8377358490566" width="49.80128301886793" height="45.652830188679246" as="geometry" />
         </mxCell>
         <mxCell id="OHCGnlUI0vqyFtJxWPKa-24" style="vsdxID=1536;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -587,7 +587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="newAppTier" id="zLVgMPImS6wC_qmgsdhb">
-    <mxGraphModel dx="2249" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pvFgZHUrSk23J_tYId56-0" />
         <mxCell id="pvFgZHUrSk23J_tYId56-1" parent="pvFgZHUrSk23J_tYId56-0" />
